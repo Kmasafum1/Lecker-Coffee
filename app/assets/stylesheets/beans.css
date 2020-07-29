@@ -1,0 +1,48 @@
+.Body{
+  width: 100vw;
+  margin-top: 50px;
+  margin: 0;
+}
+.top{
+  font-size: 21px;
+  color: #4e2414;
+  text-align: center;
+}
+.morelist{
+  list-style: none;
+  display: block;
+  text-align: center;
+}
+.list01{
+  font-size: 17px;
+  color: #4e2414;
+  font-weight: bold;
+}
+p{
+  font-size: 13px;
+  padding: 5px;
+}
+.list02{
+  font-size: 17px;
+  color: #4e2414;
+  font-weight: bold;
+}
+.difference{
+  font-size: 17px;
+  color: #4e2414;
+  font-weight: bold;
+}
+p{
+  font-weight: normal;
+}
+.Straight{
+  text-align: center;
+  font-size: 17px;
+  color: #4e2414;
+  font-weight: bold;
+}
+.Best{
+  justify-content: space-around;
+  display: flex;
+  margin-top: 30px;
+}

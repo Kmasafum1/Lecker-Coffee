@@ -1,0 +1,110 @@
+.Header {
+  background-color: #4e2414;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.Headername {
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  font-size: 14px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+}
+.Headeruser {
+  font-size: 14px;
+  line-height: 60px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.goods{
+  opacity: 1.2;
+  color: #4e2414;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+.goodslist{
+  display: flex;
+}
+.goods h3{
+  padding-left: 20px;
+}
+.goods1{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods2{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods3{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods4{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods h3{
+  display: flex;
+}
+.goods1 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods2 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods3 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods4 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.part2{
+  display: flex;
+}
+.goods5{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods5 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods6{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods7{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods6 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods7 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+.goods8{
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.goods8 p{
+  font-weight: bold;
+  font-size: 10px;
+}
+
+
+

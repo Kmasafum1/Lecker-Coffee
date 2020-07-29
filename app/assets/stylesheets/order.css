@@ -1,0 +1,85 @@
+.Header {
+  background-color: #4e2414;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+}
+.Headername {
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  font-size: 14px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: white;
+}
+.Headeruser {
+  font-size: 14px;
+  line-height: 60px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.prep p{
+  font-weight: bold;
+}
+.step1{
+  text-align: center;
+}
+.kettle{
+  width: 12%;
+  margin: 0 60px;
+}
+.text{
+  color:#4e2414;
+  font-weight: bold;
+  font-size: 13px;
+}
+.step2{
+  text-align: center;
+}
+.title2{
+  color:#4e2414;
+  font-weight: bold;
+}
+.text1 p{
+  color: #4e2414;
+  font-size: 12px;
+  font-weight: bold;
+}
+.text2 p{
+  font-weight: bold;
+}
+
+.Form {
+  display: flex;
+  align-items: flex-end;
+  margin-top: 70px;
+  border-top: 1px solid #4e2414;
+  justify-content: center;
+  height: 30px;
+  text-align: center;
+}
+.twitter {
+  font-size: 15px;
+  padding-left: 20px;
+  text-decoration: none;
+  color: #4e2414;
+  text-decoration: underline;
+}
+.contact {
+  font-size: 15px;
+  padding-left: 20px;
+  text-decoration: none;
+  color: #4e2414;
+  text-decoration: underline;
+}
+.share {
+  font-size: 15px;
+  padding-left: 20px;
+  text-decoration: none;
+  color: #4e2414;
+  text-decoration: underline;
+}
+
+

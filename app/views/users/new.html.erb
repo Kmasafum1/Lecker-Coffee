@@ -1,0 +1,21 @@
+<%# <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <title>Gcoffee</title>
+</head> 
+<div class="contents row">
+  <div class="container">
+    <%= form_with(model: @user, local: true) do |form| %>
+      <%# <h3>投稿する</h3>
+      <%= render partial: "form", locals: { form: form } %>
+    <%# <% end %>
+  <%# </div>
+</div> %> 
+
+<p><%= @name%>さんのお気に入りの一覧</p>
+
+
